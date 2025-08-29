@@ -1,2 +1,3 @@
-# Convolutional Neural Network on Fashion MNIST Dataset
+# To Run all Ctrl + F9
 
+Author: M.M.Mirzaie
